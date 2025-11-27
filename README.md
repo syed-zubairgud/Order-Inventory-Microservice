@@ -6,3 +6,4 @@ This project implements two Spring Boot microservices communicating via REST:
 
 
 Both services use H2 DB, Spring JPA, Factory Pattern, and JUnit tests.
+Mainly focused on logic not in imports and project setup
